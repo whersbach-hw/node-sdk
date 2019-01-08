@@ -8,7 +8,7 @@ Changelog
 -------------------
 - Added PayPal account endpoint
 - Added transfer endpoint
-- Added client token endpoint
+- Added Authentication token endpoint 
 - Added Layer 7 encryption
 - Added payment status transition endpoint
 - Added paper check endpoint
